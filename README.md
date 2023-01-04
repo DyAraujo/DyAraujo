@@ -8,9 +8,6 @@
 
 ## Back-end | Software Developer ❤️
 
-- 💼 Desenvolvedora Java Jr.
-- 🌱 Formada na Universidade Paulista - UNIP no curso Ciência da Computação em 2022.
-- 👨‍💻 Skills Hard: Java 11+, Spring Boot, API's RESTful, Microservices, Reactive Programming (WebFlux), JUnit 5, Mockito, RabbitMQ, Kafka, Kanban (Jira), MySQL, PostgresSQL, Docker, Sonar, SOLID, Clean Architecture, Primefaces 8+, Git e Github. 
 - 📫 Como entrar em contato comigo: dyane.aaraujo@picpay.com.
 - 📌 Perfil Github pessoal para estudos: https://github.com/MulherMarav.
 
